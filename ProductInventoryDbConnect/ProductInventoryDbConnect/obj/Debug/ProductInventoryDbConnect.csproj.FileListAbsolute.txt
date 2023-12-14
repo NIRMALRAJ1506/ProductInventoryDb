@@ -1,0 +1,7 @@
+C:\Mphasis Db connectivity\Day 6\Exercise\ProductInventoryDbConnect\ProductInventoryDbConnect\bin\Debug\ProductInventoryDbConnect.exe.config
+C:\Mphasis Db connectivity\Day 6\Exercise\ProductInventoryDbConnect\ProductInventoryDbConnect\bin\Debug\ProductInventoryDbConnect.exe
+C:\Mphasis Db connectivity\Day 6\Exercise\ProductInventoryDbConnect\ProductInventoryDbConnect\bin\Debug\ProductInventoryDbConnect.pdb
+C:\Mphasis Db connectivity\Day 6\Exercise\ProductInventoryDbConnect\ProductInventoryDbConnect\obj\Debug\ProductInventoryDbConnect.csproj.AssemblyReference.cache
+C:\Mphasis Db connectivity\Day 6\Exercise\ProductInventoryDbConnect\ProductInventoryDbConnect\obj\Debug\ProductInventoryDbConnect.csproj.CoreCompileInputs.cache
+C:\Mphasis Db connectivity\Day 6\Exercise\ProductInventoryDbConnect\ProductInventoryDbConnect\obj\Debug\ProductInventoryDbConnect.exe
+C:\Mphasis Db connectivity\Day 6\Exercise\ProductInventoryDbConnect\ProductInventoryDbConnect\obj\Debug\ProductInventoryDbConnect.pdb
